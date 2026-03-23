@@ -124,14 +124,3 @@ This repository is intended to demonstrate:
 
 ---
 
-## ⚙️ Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Run tests
-npx playwright test
-
-# Open test report
-npx playwright show-report
